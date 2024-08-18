@@ -43,3 +43,4 @@ This is a chatbot in nodejs using framework from https://github.com/devXprite/ja
    cd chat_model_server
    python3 main.py
    ```
+The manually written answers for classic mode can be viewed in https://docs.google.com/document/d/1ZmzowaOvYByMpj08ZhhoEkM58BdzGcDBmpLOJLyX5zw/edit
